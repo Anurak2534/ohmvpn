@@ -1,9 +1,9 @@
-1.8
+1.9
 OHM VPN
-📥FILE UPDATE 24-04-23
+📥FILE UPDATE 29-04-23
 🌐SERVER LIST
-🌟VIP-CAT 8 SERVER ใช้งานทั่วไป
-🌟VIP-GAMING 8 SERVER ใช้เล่นเกมส์เท่านั้น
+🌟VIP-CAT 13 SERVER ใช้งานทั่วไป
+🌟VIP-GAMING 10 SERVER ใช้เล่นเกมส์เท่านั้น
 BY ITIM VPN
 📢เซิร์ฟเวอร์จะrebootเวลา03:30น.ทุกวัน
 ✔กันรั่วซิมทรูกด*935*99# ฟรี
