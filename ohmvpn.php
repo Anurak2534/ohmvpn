@@ -1,14 +1,14 @@
-2.2
+2.3
 OHM VPN
-📥FILE UPDATE 07-05-23
+📥FILE UPDATE 21-05-23
 🌐SERVER LIST
 ⭐CA 2 SERVER ใช้งานทั่วไป ท่องเว็บ
 ⭐NL 2 SERVER ใช้งานทั่วไป ท่องเว็บ
-⭐SG 1 SERVER ใช้งานทั่วไป ท่องเว็บ
+⭐SG 2 SERVER ใช้งานทั่วไป ท่องเว็บ
 ⭐US 2 SERVER ใช้งานทั่วไป ท่องเว็บ
 🌟VIP-CAT 20 SERVER ใช้งานทั่วไป
 🌟VIP-GAMING 20 SERVER ใช้เล่นเกมส์เท่านั้น 
-🌟VIP-YOUTUBE 5 SERVER ใช้ดูยูทูบลื่นๆ
+🌟VIP-YOUTUBE 10 SERVER ใช้ดูยูทูบลื่นๆ
 BY ITIM VPN
 📢เซิร์ฟเวอร์จะrebootเวลา03:30น.ทุกวัน
 ✔กันรั่วซิมทรูกด*935*99# ฟรี
