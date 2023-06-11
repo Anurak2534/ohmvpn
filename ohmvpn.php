@@ -1,12 +1,14 @@
-2.6
+2.7
 OHM VPN
-📥FILE UPDATE 08-06-23
+📥FILE UPDATE 11-06-23 
+🔥เพิ่มเซิร์ฟ DDC 1 เครื่อง(Testระบบ)
+🔥เพิ่มเซิร์ฟVIP-NETFLIX 5 SERVER ใช้สำหรับดูหนังออนไลน์
 🌐SERVER LIST
 ⭐SG 8 SERVER ใช้งานทั่วไป ท่องเว็บ 
 ⭐TH-FSAT 10 SERVER ใช้งานทั่วไป
-⭐US 2 SERVER ใช้งานทั่วไป ท่องเว็บ
 🌟VIP-CAT 20 SERVER ใช้งานทั่วไป
 🌟VIP-GAMING 20 SERVER ใช้เล่นเกมส์เท่านั้น 
+🌟VIP-NETFLIX 5 SERVER ใช้สำหรับดูหนังออนไลน์
 🌟VIP-YOUTUBE 10 SERVER ใช้ดูยูทูบลื่นๆ
 BY ITIM VPN
 📢เซิร์ฟเวอร์จะrebootเวลา03:30น.ทุกวัน
