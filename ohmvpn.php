@@ -1,8 +1,7 @@
-2.7
+2.8
 OHM VPN
-📥FILE UPDATE 11-06-23 
-🔥เพิ่มเซิร์ฟ DDC 1 เครื่อง(Testระบบ)
-🔥เพิ่มเซิร์ฟVIP-NETFLIX 5 SERVER ใช้สำหรับดูหนังออนไลน์
+📥FILE UPDATE 15-06-23 
+🔥เพิ่มเซิร์ฟ TEST 2 เครื่อง(Testระบบ)
 🌐SERVER LIST
 ⭐SG 8 SERVER ใช้งานทั่วไป ท่องเว็บ 
 ⭐TH-FSAT 10 SERVER ใช้งานทั่วไป
