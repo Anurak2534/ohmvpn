@@ -1,13 +1,13 @@
-2.8
+2.9
 OHM VPN
-📥FILE UPDATE 15-06-23 
-🔥เพิ่มเซิร์ฟ TEST 2 เครื่อง(Testระบบ)
+📥FILE UPDATE 20-06-23 
+🔥แก้เซิฟดับ
 🌐SERVER LIST
-⭐SG 8 SERVER ใช้งานทั่วไป ท่องเว็บ 
+⭐SG 10 SERVER ใช้งานทั่วไป ท่องเว็บ 
 ⭐TH-FSAT 10 SERVER ใช้งานทั่วไป
 🌟VIP-CAT 20 SERVER ใช้งานทั่วไป
-🌟VIP-GAMING 20 SERVER ใช้เล่นเกมส์เท่านั้น 
-🌟VIP-NETFLIX 5 SERVER ใช้สำหรับดูหนังออนไลน์
+🌟VIP-GAMING 10 SERVER ใช้เล่นเกมส์เท่านั้น 
+🌟VIP-NETFLIX 2 SERVER ใช้สำหรับดูหนังออนไลน์
 🌟VIP-YOUTUBE 10 SERVER ใช้ดูยูทูบลื่นๆ
 BY ITIM VPN
 📢เซิร์ฟเวอร์จะrebootเวลา03:30น.ทุกวัน
