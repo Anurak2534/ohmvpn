@@ -1,14 +1,13 @@
-3.0
-OHM VPN
-📥FILE UPDATE 23-06-23 
-🔥แก้เซิฟดับ
+3.1
+✨OHM VPN✨
+📥FILE UPDATE 26-06-23 
+🔥แก้ชื่อไฟล์ให้ใช้งานง่ายขึ้น
 🌐SERVER LIST
-⭐SG 10 SERVER ใช้งานทั่วไป ท่องเว็บ 
-⭐TH-FSAT 10 SERVER ใช้งานทั่วไป
-🌟VIP-CAT 20 SERVER ใช้งานทั่วไป
+🌟SG 10 SERVER ใช้งานทั่วไป ท่องเว็บ 
+🌟VIP-CAT 40 SERVER ใช้งานทั่วไป
 🌟VIP-GAMING 10 SERVER ใช้เล่นเกมส์เท่านั้น 
 🌟VIP-YOUTUBE 10 SERVER ใช้ดูยูทูบลื่นๆ
-BY ITIM VPN
+♥BY ITIM VPN
 📢เซิร์ฟเวอร์จะrebootเวลา03:30น.ทุกวัน
 ✔กันรั่วซิมทรูกด*935*99# ฟรี
 ✔กันรั่วซิมดีแทคกด*117*30# 20บาท
