@@ -1,8 +1,9 @@
-3.1
+3.2
 ✨OHM VPN✨
-📥FILE UPDATE 26-06-23 
-🔥แก้ชื่อไฟล์ให้ใช้งานง่ายขึ้น
+📥FILE UPDATE 7-07-23 
+🔥เพิ่มเซิร์ฟ COMBO 6 SERVER
 🌐SERVER LIST
+🌟COMBO 10 SERVER ใช้งานทั่วไป
 🌟SG 10 SERVER ใช้งานทั่วไป ท่องเว็บ 
 🌟VIP-CAT 40 SERVER ใช้งานทั่วไป
 🌟VIP-GAMING 10 SERVER ใช้เล่นเกมส์เท่านั้น 
