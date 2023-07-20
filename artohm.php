@@ -1,12 +1,9 @@
-3.4
+3.5
 ✨OHM VPN✨
-📥FILE UPDATE 15-07-23 
-🔥เพิ่มเซิร์ฟTH-BM 5 SERVER
-🔥เพิ่มเซิร์ฟTH-INET 5 SERVER
-🔥เพิ่มเซิร์ฟTH-MT 5 SERVER
+📥FILE UPDATE 21-07-23
 🌐SERVER LIST
 🌟COMBO 10 SERVER ใช้งานทั่วไป
-🌟SG 10 SERVER ใช้งานทั่วไป ท่องเว็บ 
+🌟SG 6 SERVER ใช้งานทั่วไป ท่องเว็บ 
 🌟VIP-CAT 40 SERVER ใช้งานทั่วไป
 🌟VIP-GAMING 20 SERVER ใช้เล่นเกมส์เท่านั้น 
 🌟VIP-YOUTUBE 10 SERVER ใช้ดูยูทูบลื่นๆ
