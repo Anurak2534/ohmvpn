@@ -1,6 +1,7 @@
-3.5
+3.6
 ✨OHM VPN✨
-📥FILE UPDATE 21-07-23
+📥FILE UPDATE 25-07-23
+🔥เพิ่มเซิร์ฟ TEST-TH 1 SERVER
 🌐SERVER LIST
 🌟COMBO 10 SERVER ใช้งานทั่วไป
 🌟SG 6 SERVER ใช้งานทั่วไป ท่องเว็บ 
