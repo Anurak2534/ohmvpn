@@ -1,7 +1,7 @@
-4.2
+4.3
 ✨OHM VPN✨
-📥FILE UPDATE 23-08-23
-🌟เพิ่มเซิร์ฟ COMBO 4 SERVER
+📥FILE UPDATE 29-08-23
+🌟เพิ่มเซิร์ฟ MT 2 SERVER
 🌐SERVER LIST
 🌟COMBO 20 SERVER ใช้งานทั่วไป
 🌟SG 5 SERVER ใช้งานทั่วไป 
