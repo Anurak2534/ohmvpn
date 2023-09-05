@@ -1,16 +1,15 @@
-4.5
+4.6
 ✨OHM VPN✨
-📥FILE UPDATE 03-09-23
-🌟เพิ่มเซิร์ฟ MT 7 SERVER
+📥FILE UPDATE 05-09-23
+🌟เพิ่มเซิร์ฟ TH-CAT 10 SERVER
 🌐SERVER LIST
 🌟TH-MT 10 SERER ใช้ท่องเว็บ เล่นเกมส์
-🌟COMBO 20 SERVER ใช้งานทั่วไป
-🌟SG 5 SERVER ใช้งานทั่วไป 
-🌟TH-BM 5 SERVER ใช้เล่นเกมส์เท่านั้น
-🌟TH-CSL 3 SERVER ใช้เล่นเกมส์ ท่องเว็บ 
+🌟TH-CAT 10 SERVER ใช้งานทั่วไป
+🌟SG 10 SERVER ใช้งานทั่วไป 
+🌟TH-BM 5 SERVER ใช้เล่นเกมส์เท่านั้น 
 🌟TH-INET 5 SERVER ใช้เล่นเกมส์เท่านั้น
-🌟VIP-CAT 20 SERVER ใช้งานทั่วไป
-🌟VIP-GAMING 20 SERVER ใช้เล่นเกมส์เท่านั้น 
+🌟VIP-CAT 11 SERVER ใช้งานทั่วไป
+🌟VIP-GAMING 10 SERVER ใช้เล่นเกมส์เท่านั้น 
 ♥BY ITIM VPN
 📢เซิร์ฟเวอร์จะrebootเวลา03:30น.ทุกวัน
 ✔กันรั่วซิมทรูกด*935*99# ฟรี
