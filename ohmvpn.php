@@ -1,7 +1,7 @@
-4.8
+4.9
 ✨OHM VPN✨
-📥FILE UPDATE 08-09-23
-🌟แก้ไฟล์ AIS-PLAY ที่ดับไป
+📥FILE UPDATE 11-09-23
+🌟แก้ไขชื่อกับรหัสผ่านใหม่
 🌐SERVER LIST
 🌟TH-MT 10 SERER ใช้ท่องเว็บ เล่นเกมส์
 🌟TH-CAT 10 SERVER ใช้งานทั่วไป
