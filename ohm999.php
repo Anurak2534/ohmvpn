@@ -1,7 +1,7 @@
-5.7
+5.8
 ✨OHM VPN✨
-📥FILE UPDATE 30-10-23
-📣แก้ไฟล์ทรูที่ดับ
+📥FILE UPDATE 31-10-23
+📣ซิมทรูต้องใช้โปรyoutube
 🌐SERVER LIST
 🌟TH-MT 5 SERER ใช้ท่องเว็บ เล่นเกมส์
 🌟TH-CAT 10 SERVER ใช้งานทั่วไป
