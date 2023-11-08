@@ -1,8 +1,7 @@
-6.0
+6.1
 ✨OHM VPN✨
-📥FILE UPDATE 05-11-23
-📌ซิมทรูต้องใช้โปรyoutube
-📌ซิมดีแทคใช้โปรตามใจ(สมัครในแอพดีแทค)
+📥FILE UPDATE 08-11-23
+📌ซิมทรูโปรESPORTS
 🌐SERVER LIST
 🌟TH-CAT 10 SERVER ใช้งานทั่วไป
 🌟COMBO 10 SERVER ใช้งานทั่วไป
