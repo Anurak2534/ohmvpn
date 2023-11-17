@@ -1,7 +1,8 @@
-6.3
+6.4
 ✨OHM VPN✨
-📥FILE UPDATE 08-11-23
+📥FILE UPDATE 17-11-23
 📌ซิมทรูโปรESPORTS
+📌ซิมดีแทคโปรLINE
 🌐SERVER LIST
 🌟TH-CAT 10 SERVER ใช้งานทั่วไป
 🌟COMBO 10 SERVER ใช้งานทั่วไป
