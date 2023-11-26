@@ -1,12 +1,10 @@
-6.4
+6.5
 ✨OHM VPN✨
-📥FILE UPDATE 17-11-23
+📥FILE UPDATE 27-11-23
 📌ซิมทรูโปรESPORTS
 📌ซิมดีแทคโปรLINE
 🌐SERVER LIST
 🌟TH-CAT 10 SERVER ใช้งานทั่วไป
-🌟COMBO 10 SERVER ใช้งานทั่วไป
-🌟SG 10 SERVER ใช้งานทั่วไป
 🌟VIP-CAT 10 SERVER ใช้งานทั่วไป
 🌟VIP-GAMING 10 SERVER ใช้เล่นเกมส์เท่านั้น 
 📢เซิร์ฟเวอร์จะrebootเวลา03:30น.ทุกวัน
