@@ -7,11 +7,11 @@
       "detail": "สำหรับใช้งานทั่วไป",
       "content": "vmess://eyJhZGQiOiIyMTIuODAuMjEyLjE4NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6IjMyNTM2OTcwLWNhMmYtNDVmYy1jNTM4LTMzZmQ5MmNmMGQ4ZSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IlJEMS1BSVMtUExBWSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     }, {
-      "name": "TH-A-AIS-PLAY02",
+      "name": "TH-A-AIS-PLAY-02",
       "detail": "สำหรับใช้งานทั่วไป",
       "content": "vmess://eyJhZGQiOiIyMTIuODAuMjEyLjI0NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6ImZmYjhhOWFiLTlmYjQtNGJhNy1mNTc4LTE1NDkzZDA1NTdlOCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IlJEMi1BSVMtUExBWSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     }, {
-      "name": "TH-A-AIS-PLAY03",
+      "name": "TH-A-AIS-PLAY-03",
       "detail": "สำหรับใช้งานทั่วไป",
       "content": "vmess://eyJhZGQiOiI0NS4xMzYuMjM5LjM4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiNTJjYTY4ZTEtYTY0Zi00OGFkLWQ5MjMtYmI4ZTk1YTVkNjVlIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiUkQzLUFJUy1QTEFZIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
     }, {
@@ -31,11 +31,11 @@
       "detail": "สำหรับใช้เล่นเกมส์",
       "content": "vmess://eyJhZGQiOiIyMTIuODAuMjEyLjE4NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6IjMyNTM2OTcwLWNhMmYtNDVmYy1jNTM4LTMzZmQ5MmNmMGQ4ZSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IlJEMS1BSVMtUExBWSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     }, {
-      "name": "TH-B-AIS-PLAY02",
+      "name": "TH-B-AIS-PLAY-02",
       "detail": "สำหรับใช้เล่นเกมส์",
       "content": "vmess://eyJhZGQiOiIyMTIuODAuMjEyLjI0NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6ImZmYjhhOWFiLTlmYjQtNGJhNy1mNTc4LTE1NDkzZDA1NTdlOCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IlJEMi1BSVMtUExBWSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     }, {
-      "name": "TH-B-AIS-PLAY03",
+      "name": "TH-B-AIS-PLAY-03",
       "detail": "สำหรับใช้เล่นเกมส์",
       "content": "vmess://eyJhZGQiOiI0NS4xMzYuMjM5LjM4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiNTJjYTY4ZTEtYTY0Zi00OGFkLWQ5MjMtYmI4ZTk1YTVkNjVlIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiUkQzLUFJUy1QTEFZIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
     }, {
