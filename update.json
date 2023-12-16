@@ -1,5 +1,5 @@
 {
-  "version": 1.1,
+  "version": 1.2,
   "message": "รายละเอียดอัปเดต",
   "data": [
     {
@@ -94,10 +94,50 @@
       "name": "TH-B-TRUE-NOPRO-05",
       "detail": "สำหรับใช้เล่นเกมส์",
       "content": "vmess://eyJhZGQiOiIwOjA6MDowOjA6RkZGRjo2ODEyOkJBMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidjUubmFtb3Zwbi5jb20iLCJpZCI6IjQyYTI1MDVlLWY2OWUtNGJmNi1lNThhLWFhOTJkNzdhZWMxZiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IlJENS1UUlVFLU5PUFJPIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
-    },{
+    }, {
       "name": "TH-B-TRUE-NOPRO-06",
       "detail": "สำหรับใช้เล่นเกมส์",
       "content": "vmess://eyJhZGQiOiIwOjA6MDowOjA6RkZGRjo2ODEyOkJBMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidjYubmFtb3Zwbi5jb20iLCJpZCI6IjkzNjc4OGRlLWU1OTUtNDQ0Ny1kOWE4LTgxZmVlNTZjYmNhZCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IlJENi1UUlVFLU5PUFJPIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+    },  {
+      "name": "TH-A-TRUE-โปรเฟสบุ๊คเกมส์มิ่ง-02",
+      "detail": "สำหรับใช้งานทั่วไป",
+      "content": "vmess://eyJhZGQiOiIyMTIuODAuMjEyLjI0NCIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjY1NjAyODhhLTg3YmEtNDg1YS1jOTQ0LTk4NjgxY2ZiMjU1NiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwMDAiLCJwcyI6InJkMi1mYiIsInNjeSI6ImF1dG8iLCJzbmkiOiJjb25uZWN0LmZhY2Vib29rLm5ldCIsInRscyI6InRscyIsInR5cGUiOiJodHRwIiwidiI6IjIifQ=="
+    }, {
+      "name": "TH-A-TRUE-โปรเฟสบุ๊คเกมส์มิ่ง-03",
+      "detail": "สำหรับใช้งานทั่วไป",
+      "content": "vmess://eyJhZGQiOiI0NS4xMzYuMjM5LjM4IiwiYWlkIjoiMCIsImFscG4iOiJodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiODdhZTE5MmUtYjRkOC00NGFlLWUxM2ItZDgwNDk4MzhmMmViIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAwMCIsInBzIjoicmQzLWZiIiwic2N5IjoiYXV0byIsInNuaSI6ImNvbm5lY3QuZmFjZWJvb2submV0IiwidGxzIjoidGxzIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9"
+    }, {
+      "name": "TH-A-TRUE-โปรเฟสบุ๊คเกมส์มิ่ง-04",
+      "detail": "สำหรับใช้งานทั่วไป",
+      "content": "vmess://eyJhZGQiOiI0NS4xMzYuMjM4LjgzIiwiYWlkIjoiMCIsImFscG4iOiJodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYzQ4NjA2MTgtZmM2Zi00ZjM5LWZhZDctMjU5NzYwYzc5ZDA1IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAwMCIsInBzIjoiUkQ0LUZCIiwic2N5IjoiYXV0byIsInNuaSI6ImNvbm5lY3QuZmFjZWJvb2submV0IiwidGxzIjoidGxzIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9"
+    }, {
+      "name": "TH-A-TRUE-โปรเฟสบุ๊คเกมส์มิ่ง-05",
+      "detail": "สำหรับใช้งานทั่วไป",
+      "content": "vmess://eyJhZGQiOiI0NS4xNTAuMTI5LjEzNCIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImFkNWU4MzAyLTQ3MmMtNDI2ZS1mNTUzLTBiZjBkYzIwMzE5NCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwMDAiLCJwcyI6IlJENS1GQiIsInNjeSI6ImF1dG8iLCJzbmkiOiJjb25uZWN0LmZhY2Vib29rLm5ldCIsInRscyI6InRscyIsInR5cGUiOiJodHRwIiwidiI6IjIifQ=="
+    }, {
+      "name": "TH-A-TRUE-โปรเฟสบุ๊คเกมส์มิ่ง-06",
+      "detail": "สำหรับใช้งานทั่วไป",
+      "content": "vmess://eyJhZGQiOiI0NS4xNTAuMTMxLjIwMyIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjE1NzI3MDk3LTM4ZGEtNDAzNy1jMGMzLWY2OGUxZjU2ZTAxNSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwMDAiLCJwcyI6IlJENi1GQiIsInNjeSI6ImF1dG8iLCJzbmkiOiJjb25uZWN0LmZhY2Vib29rLm5ldCIsInRscyI6InRscyIsInR5cGUiOiJodHRwIiwidiI6IjIifQ=="
+    }, {
+      "name": "TH-B-TRUE-โปรเฟสบุ๊คเกมส์มิ่ง-01",
+      "detail": "สำหรับใช้เล่นเกมส์",
+      "content": "vmess://eyJhZGQiOiI0NS45MS4xMzQuMTI3IiwiYWlkIjoiMCIsImFscG4iOiJodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNzkxN2UwYzYtOGM0YS00M2ZkLWUwYTctZTcyMjlmM2Y5NDc0IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAwMCIsInBzIjoiZzEtZmIiLCJzY3kiOiJhdXRvIiwic25pIjoiY29ubmVjdC5mYWNlYm9vay5uZXQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0="
+    }, {
+      "name": "TH-B-TRUE-โปรเฟสบุ๊คเกมส์มิ่ง-02",
+      "detail": "สำหรับใช้เล่นเกมส์",
+      "content": "vmess://eyJhZGQiOiI0NS45MS4xMzQuMTM2IiwiYWlkIjoiMCIsImFscG4iOiJodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMWU2YWZmNDItZmI5Ny00ZTlhLWFjOWEtM2FlMTE0NmY1YTQ5IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAwMCIsInBzIjoiZzItZmIiLCJzY3kiOiJhdXRvIiwic25pIjoiY29ubmVjdC5mYWNlYm9vay5uZXQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0="
+    }, {
+      "name": "TH-B-TRUE-โปรเฟสบุ๊คเกมส์มิ่ง-03",
+      "detail": "สำหรับใช้เล่นเกมส์",
+      "content": "vmess://eyJhZGQiOiI0NS45MS4xMzQuMTgyIiwiYWlkIjoiMCIsImFscG4iOiJodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjRkODQ2NmEtOTJkMy00ZTAxLWRkNTQtYzhkODVhNmY1OWEzIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAwMCIsInBzIjoiZzMtZmIiLCJzY3kiOiJhdXRvIiwic25pIjoiY29ubmVjdC5mYWNlYm9vay5uZXQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0="
+    }, {
+      "name": "TH-B-TRUE-โปรเฟสบุ๊คเกมส์มิ่ง-04",
+      "detail": "สำหรับใช้เล่นเกมส์",
+      "content": "vmess://eyJhZGQiOiI0NS45MS4xMzQuMTUyIiwiYWlkIjoiMCIsImFscG4iOiJodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYTY2NGJiZTAtNzlkNi00MjJhLWI0ODYtYzg4NDlmNmMwODI4IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAwMCIsInBzIjoiZzQtZmIiLCJzY3kiOiJhdXRvIiwic25pIjoiY29ubmVjdC5mYWNlYm9vay5uZXQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0="
+    }, {
+      "name": "TH-B-TRUE-โปรเฟสบุ๊คเกมส์มิ่ง-06",
+      "detail": "สำหรับใช้เล่นเกมส์",
+      "content": "vmess://eyJhZGQiOiI0NS4xMzYuMjU0LjE4OSIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjlhODM5ZmM0LTljYTItNDFiNi1lZmQyLTU5NTkwODMwMDRiZSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwMDAiLCJwcyI6Ikc2LWZiIiwic2N5IjoiYXV0byIsInNuaSI6ImNvbm5lY3QuZmFjZWJvb2submV0IiwidGxzIjoidGxzIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9"
     }
-  ]
+  ] 
 }
