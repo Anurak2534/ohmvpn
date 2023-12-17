@@ -1,25 +1,25 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "message": "อัปเดตไฟล์วันที่18/12/23",
   "data": [
     {
-      "name": "TH-AIS-PLAY-01",
+      "name": "TH-CAT-AIS-PLAY-01",
       "detail": "เน็ตเร็วแรงเสถียร",
-      "content": "vmess://eyJhZGQiOiI0My4yMjkuMTUwLjEzMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6ImVkZmVhODcyLWEyN2QtNGE0ZC1hYzU3LWRiM2Q5ODhiZDNkYSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IkFJUzEtcGxheS1vaG0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+      "content": "vmess://eyJhZGQiOiIxMjIuMTU1LjEwLjI0NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6IjhhNmNmMTZlLTk5ZjItNGU5OS1iZTM1LWM5ZjdmNDRjMThmYSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6ImFpczEtcGxheS1jYXQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
     }, {
-      "name": "TH-AIS-PLAY02",
+      "name": "TH-CAT-AIS-PLAY-02",
       "detail": "เน็ตเร็วแรงเสถียร",
-      "content": "vmess://eyJhZGQiOiI0My4yMjkuMTUwLjEzNCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6IjhhMjg3YWY4LTg0NTMtNDAyMy1hMTM0LWJlMjkyNWU1YjYwZSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IkFJUzItUExBWS1vaG0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+      "content": "vmess://eyJhZGQiOiIxMjIuMTU1LjUuMTgwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiN2U3MGNkNmMtODhmZC00NTE3LTliN2MtMTRkMzc5YmM5YmI5IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiYWlzMi1wbGF5LWNhdCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     }, {
-      "name": "TH-AIS-PLAY03",
+      "name": "TH-CAT-AIS-PLAY-03",
       "detail": "เน็ตเร็วแรงเสถียร",
-      "content": "vmess://eyJhZGQiOiI0My4yMjkuMTUwLjEzNiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6ImY1ZThmYzkzLTQwMDEtNGMxZC05NzhmLWViZWVkZjlkZTY2MSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IkFJUzMtUExBWTMtb2htIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+      "content": "vmess://eyJhZGQiOiI2MS4xOS4yNDguODgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ind3dy5zcGVlZHRlc3QubmV0IiwiaWQiOiI0NDExNDAxNi1jNjcyLTQyM2MtYTdjZS1lOGVmMzNlMzJlMDgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJhaXMzLXBsYXktY2F0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
     }, {
-      "name": "TH-AIS-PLAY-04",
+      "name": "TH-CAT-AIS-PLAY-04",
       "detail": "เน็ตเร็วแรงเสถียร",
-      "content": "vmess://eyJhZGQiOiI0My4yMjkuMTUwLjEzNyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6IjA1MGY2ZTUwLTE2MTUtNDRiZi04OTkyLTRkYmI0YmU0ZTczMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IkFJUzQtUExBWS1vaG0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+      "content": "vmess://eyJhZGQiOiIxMjIuMTU1LjEwLjE0MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6Ijc3YmZkZTNmLWVjYjEtNDQ5NC05ZGMyLTVjOGIyYjE2MTg1ZSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6ImFpcy1wbGF5NC1jYXQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
     }, {
-      "name": "TH-AIS-PLAY-05",
+      "name": "TH-CAT-AIS-PLAY-05",
       "detail": "เน็ตเร็วแรงเสถียร",
       "content": "vmess://eyJhZGQiOiI0My4yMjkuMTUwLjEzOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6ImMxZGE2NmM5LTZiNzgtNDU3Ni1iMTRhLTIwNjY4NmYxNDAxYSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IkFJUzUtcGxheS1vaG0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
     }, {
@@ -41,25 +41,25 @@
     }, {
       "name": "TH-TRUE-NOPRO-05",
       "detail": "เน็ตไม่ค่อยเสถียร",
-      "content": "vmess://eyJhZGQiOiIwOjA6MDowOjA6RkZGRjo2ODEyOkJBMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiaXM1Lm5hbW92cG4ub25saW5lIiwiaWQiOiJjMWRhNjZjOS02Yjc4LTQ1NzYtYjE0YS0yMDY2ODZmMTQwMWEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJUUlVFLU5PUFJPNS1vaG0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+      "content": "vmess://eyJhZGQiOiIwOjA6MDowOjA6RkZGRjo2ODEyOkJBMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiY2F0NS5uYW1vdnBuLm9ubGluZSIsImlkIjoiNjAzODQ0YTMtOTE1OC00ZWY5LWIxMjAtOTJjMjJmNDkxZTI0IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoidHJ1ZS1ub3BybzUtY2F0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
     }, {
-      "name": "TH-TRUE-โปรเฟสบุ๊คเกมส์มิ่ง-01",
+      "name": "TH-CAT-TRUE-โปรเฟสบุ๊คเกมส์มิ่ง-01",
       "detail": "เน็ตเร็วแรงเสถียร",
-      "content": "vmess://eyJhZGQiOiI0My4yMjkuMTUwLjEzMiIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImY3YTJiNjg0LTE3MjktNDQwZC04MTYyLWFiOTM5OWVhNDJiNSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwMDAiLCJwcyI6IlRSVUUtRkIxLW9obSIsInNjeSI6ImF1dG8iLCJzbmkiOiJjb25uZWN0LmZhY2Vib29rLm5ldCIsInRscyI6InRscyIsInR5cGUiOiJodHRwIiwidiI6IjIifQ=="
+      "content": "vmess://eyJhZGQiOiIxMjIuMTU1LjEwLjI0NiIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijg4ZDkwMDEzLTY0ODQtNDYxZS1hYjg5LTA5YzNkODIyZjU4ZiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwMDAiLCJwcyI6InRydWUtZmIxLWNhdCIsInNjeSI6ImF1dG8iLCJzbmkiOiJjb25uZWN0LmZhY2Vib29rLm5ldCIsInRscyI6InRscyIsInR5cGUiOiJodHRwIiwidiI6IjIifQ=="
     }, {
-      "name": "TH-TRUE-โปรเฟสบุ๊คเกมส์มิ่ง-02",
+      "name": "TH-CAT-TRUE-โปรเฟสบุ๊คเกมส์มิ่ง-02",
       "detail": "เน็ตเร็วแรงเสถียร",
-      "content": "vmess://eyJhZGQiOiI0My4yMjkuMTUwLjEzNCIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImI2N2FlMzRiLTkzMmUtNDMxMy04YTc4LTZjNjlkY2YyNWEyNiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwMDAiLCJwcyI6IlRSVUUtRkIyLW9obSIsInNjeSI6ImF1dG8iLCJzbmkiOiJjb25uZWN0LmZhY2Vib29rLm5ldCIsInRscyI6InRscyIsInR5cGUiOiJodHRwIiwidiI6IjIifQ=="
+      "content": "vmess://eyJhZGQiOiIxMjIuMTU1LjUuMTgwIiwiYWlkIjoiMCIsImFscG4iOiJodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZDg1YzQwYmYtNjZmZi00ZGRkLWExOGQtMGQwYzc1MjM1YWYyIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAwMCIsInBzIjoidHJ1ZS1mYjItY2F0Iiwic2N5IjoiYXV0byIsInNuaSI6ImNvbm5lY3QuZmFjZWJvb2submV0IiwidGxzIjoidGxzIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9"
     }, {
-      "name": "TH-TRUE-โปรเฟสบุ๊คเกมส์มิ่ง-03",
+      "name": "TH-CAT-TRUE-โปรเฟสบุ๊คเกมส์มิ่ง-03",
       "detail": "เน็ตเร็วแรงเสถียร",
-      "content": "vmess://eyJhZGQiOiI0My4yMjkuMTUwLjEzNiIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVhNjBhZTc0LWFjZjQtNDVhNi04NzQzLTY0ZjU0YWNkYTBkYiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwMDAiLCJwcyI6IlRSVUUtRkIzLW9obSIsInNjeSI6ImF1dG8iLCJzbmkiOiJjb25uZWN0LmZhY2Vib29rLm5ldCIsInRscyI6InRscyIsInR5cGUiOiJodHRwIiwidiI6IjIifQ=="
+      "content": "vmess://eyJhZGQiOiI2MS4xOS4yNDguODgiLCJhaWQiOiIwIiwiYWxwbiI6Imh0dHAvMS4xIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1YmQzMTI2ZC0zN2IzLTQ3OWItYTMyMi1mMWUzOTdkZWJhY2UiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDAwIiwicHMiOiJ0cnVlLWZiMy1jYXQiLCJzY3kiOiJhdXRvIiwic25pIjoiY29ubmVjdC5mYWNlYm9vay5uZXQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0="
     }, {
-      "name": "TH-TRUE-โปรเฟสบุ๊คเกมส์มิ่ง-04",
+      "name": "TH-CAT-TRUE-โปรเฟสบุ๊คเกมส์มิ่ง-04",
       "detail": "เน็ตเร็วแรงเสถียร",
-      "content": "vmess://eyJhZGQiOiI0My4yMjkuMTUwLjEzNyIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQxNjdjMDJmLTE4NDctNDZkZS1iZTIwLTQwMmMxNWVhNDIzOCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwMDAiLCJwcyI6IlRSVUUtRkI0LW9obSIsInNjeSI6ImF1dG8iLCJzbmkiOiJjb25uZWN0LmZhY2Vib29rLm5ldCIsInRscyI6InRscyIsInR5cGUiOiJodHRwIiwidiI6IjIifQ=="
+      "content": "vmess://eyJhZGQiOiIxMjIuMTU1LjEwLjE0MiIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjgyZmY1OGIxLTgzYmQtNDEyOS1hM2Y0LTY0NzhmNmRkMmEzZiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwMDAiLCJwcyI6InRydWUtZmI0LWNhdCIsInNjeSI6ImF1dG8iLCJzbmkiOiJjb25uZWN0LmZhY2Vib29rLm5ldCIsInRscyI6InRscyIsInR5cGUiOiJodHRwIiwidiI6IjIifQ=="
     }, {
-      "name": "TH-TRUE-โปรเฟสบุ๊คเกมส์มิ่ง-05",
+      "name": "TH-CAT-TRUE-โปรเฟสบุ๊คเกมส์มิ่ง-05",
       "detail": "เน็ตเร็วแรงเสถียร",
       "content": "vmess://eyJhZGQiOiI0My4yMjkuMTUwLjEzOSIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU3OGE2OGQ0LWNjNzUtNDQ1ZC1iNTc1LTY3NGRkYjBjZWM5OSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwMDAiLCJwcyI6IlRSVUUtRkI1LW9obSIsInNjeSI6ImF1dG8iLCJzbmkiOiJjb25uZWN0LmZhY2Vib29rLm5ldCIsInRscyI6InRscyIsInR5cGUiOiJodHRwIiwidiI6IjIifQ=="
     }
