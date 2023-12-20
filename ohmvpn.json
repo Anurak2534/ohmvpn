@@ -1,6 +1,6 @@
 {
-  "version": 1.1,
-  "message": "อัปเดตไฟล์วันที่18/12/23",
+  "version": 1.2,
+  "message": "อัปเดตไฟล์วันที่21/12/23",
   "data": [
     {
       "name": "TH-CAT-AIS-PLAY-01",
@@ -23,25 +23,45 @@
       "detail": "เน็ตเร็วแรงเสถียร",
       "content": "vmess://eyJhZGQiOiI0My4yMjkuMTUwLjEzOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6ImMxZGE2NmM5LTZiNzgtNDU3Ni1iMTRhLTIwNjY4NmYxNDAxYSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IkFJUzUtcGxheS1vaG0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
     }, {
-      "name": "TH-TRUE-NOPRO-01",
-      "detail": "เน็ตไม่ค่อยเสถียร",
-      "content": "vmess://eyJhZGQiOiIwOjA6MDowOjA6RkZGRjo2ODEyOkJBMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidjEubmFtb3Zwbi5jb20iLCJpZCI6IjMyNTM2OTcwLWNhMmYtNDVmYy1jNTM4LTMzZmQ5MmNmMGQ4ZSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IlJEMS1UUlVFLU5PUFJPIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+      "name": "TH-AIS-PLAY-06",
+      "detail": "เน็ตเร็วแรงเสถียร",
+      "content": "vmess://eyJhZGQiOiI0My4yMjkuMTUwLjE0MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6IjVmM2Q1NTI3LTkxMzktNDQ3MS1iOTkyLWJjMzVjYjk0Y2YxOSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6InRjcC1haXM2LWthdHVuIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0="
     }, {
-      "name": "TH-TRUE-NOPRO-02",
-      "detail": "เน็ตไม่ค่อยเสถียร",
-      "content": "vmess://eyJhZGQiOiIwOjA6MDowOjA6RkZGRjo2ODEyOkJBMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidjIubmFtb3Zwbi5jb20iLCJpZCI6ImZmYjhhOWFiLTlmYjQtNGJhNy1mNTc4LTE1NDkzZDA1NTdlOCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IlJEMi1UUlVFLU5PUFJPIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+      "name": "TH-AIS-PLAY-07",
+      "detail": "เน็ตเร็วแรงเสถียร",
+      "content": "vmess://eyJhZGQiOiI0My4yMjkuMTUwLjE0MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6IjY4OThhYzA3LTE0NzctNDljYi04ZmY2LWUwOTc1YjUyMWVkYyIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6ImFpcy1wbGF5Ny1jZ3RnMzR0NiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0="
     }, {
-      "name": "TH-TRUE-NOPRO-03",
-      "detail": "เน็ตไม่ค่อยเสถียร",
-      "content": "vmess://eyJhZGQiOiIwOjA6MDowOjA6RkZGRjo2ODEyOkJBMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidjMubmFtb3Zwbi5jb20iLCJpZCI6IjUyY2E2OGUxLWE2NGYtNDhhZC1kOTIzLWJiOGU5NWE1ZDY1ZSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IlJEMy1UUlVFLU5PUFJPIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+      "name": "TH-AIS-PLAY-08",
+      "detail": "เน็ตเร็วแรงเสถียร",
+      "content": "vmess://eyJhZGQiOiI0My4yMjkuMTUwLjE0NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6IjViOTE5ODgxLTExNWQtNDNkOS1iODk5LTEwZTk4NmI3NGM5OCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6ImFpcy1wbGF5OC03cGoyZHVuOSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9"
     }, {
-      "name": "TH-TRUE-NOPRO-04",
-      "detail": "เน็ตไม่ค่อยเสถียร",
-      "content": "vmess://eyJhZGQiOiIwOjA6MDowOjA6RkZGRjo2ODEyOkJBMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidjQubmFtb3Zwbi5jb20iLCJpZCI6Ijk5ZTUxN2Y4LWZiY2YtNDU1OC1lODA4LTAyOTBkNGZlZWUxZSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IlJENC1UUlVFLU5PUFJPIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+      "name": "TH-AIS-PLAY-09",
+      "detail": "เน็ตเร็วแรงเสถียร",
+      "content": "vmess://eyJhZGQiOiI0My4yMjkuMTUwLjE0OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6IjJhYjc4NmMxLTdjOGItNDYyOS05YTBjLTIyOTc5YzI2MzA0OSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6ImFpcy1wbGF5OS1nMmV0NGI3ZSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9"
     }, {
-      "name": "TH-TRUE-NOPRO-05",
+      "name": "TH-AIS-PLAY-10",
+      "detail": "เน็ตเร็วแรงเสถียร",
+      "content": "vmess://eyJhZGQiOiI0My4yMjkuMTUwLjE1MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6IjkyMDIzODUyLTkxNjMtNDdhMS1iZmMzLTEzNGQ4YTNjZDY5YiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6ImFpcy1wbGF5MTAtajMzNDJrN3UiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJodHRwIiwidiI6IjIifQ=="
+    }, {
+      "name": "TH-TRUE-NOPRO-06",
       "detail": "เน็ตไม่ค่อยเสถียร",
-      "content": "vmess://eyJhZGQiOiIwOjA6MDowOjA6RkZGRjo2ODEyOkJBMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiY2F0NS5uYW1vdnBuLm9ubGluZSIsImlkIjoiNjAzODQ0YTMtOTE1OC00ZWY5LWIxMjAtOTJjMjJmNDkxZTI0IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoidHJ1ZS1ub3BybzUtY2F0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+      "content": "vless://9292ceb3-0ced-4e8e-bdf4-52194144ce05@truemoney.com:80?path=%2F&security=none&encryption=none&host=is6.namovpn.online&type=ws#true6-nopro-vj1h4lqm"
+    }, {
+      "name": "TH-TRUE-NOPRO-07",
+      "detail": "เน็ตไม่ค่อยเสถียร",
+      "content": "vless://13f97d91-5c2b-45b9-8e40-9bae35a2cae9@truemoney.com:80?path=%2F&security=none&encryption=none&host=is7.namovpn.online&type=ws#true-nopro7-a2k5zlgn"
+    }, {
+      "name": "TH-TRUE-NOPRO-08",
+      "detail": "เน็ตไม่ค่อยเสถียร",
+      "content": "vless://45dc212c-4ffa-4e28-b3d5-0fa3e80cabde@truemoney.com:80?path=%2F&security=none&encryption=none&host=is8.namovpn.online&type=ws#true-nopro8-j9mn74st"
+    }, {
+      "name": "TH-TRUE-NOPRO-09",
+      "detail": "เน็ตไม่ค่อยเสถียร",
+      "content": "vless://d5dac5a8-f49b-4b6c-be7c-2724e5c1cc55@truemoney.com:80?path=%2F&security=none&encryption=none&host=is9.namovpn.online&type=ws#true-nopro9-5kz7fco4"
+    }, {
+      "name": "TH-TRUE-NOPRO-10",
+      "detail": "เน็ตไม่ค่อยเสถียร",
+      "content": "vless://4c3964c4-6889-4a70-a7bb-ba2900d2a18c@truemoney.com:80?path=%2F&security=none&encryption=none&host=is10.namovpn.online&type=ws#true-nopro10-1uj6siln"
     }, {
       "name": "TH-CAT-TRUE-โปรเฟสบุ๊คเกมส์มิ่ง-01",
       "detail": "เน็ตเร็วแรงเสถียร",
@@ -62,6 +82,26 @@
       "name": "TH-CAT-TRUE-โปรเฟสบุ๊คเกมส์มิ่ง-05",
       "detail": "เน็ตเร็วแรงเสถียร",
       "content": "vmess://eyJhZGQiOiI0My4yMjkuMTUwLjEzOSIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU3OGE2OGQ0LWNjNzUtNDQ1ZC1iNTc1LTY3NGRkYjBjZWM5OSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwMDAiLCJwcyI6IlRSVUUtRkI1LW9obSIsInNjeSI6ImF1dG8iLCJzbmkiOiJjb25uZWN0LmZhY2Vib29rLm5ldCIsInRscyI6InRscyIsInR5cGUiOiJodHRwIiwidiI6IjIifQ=="
+    }, {
+      "name": "TH-TRUE-โปรเฟสบุ๊คเกมส์มิ่ง-06",
+      "detail": "เน็ตเร็วแรงเสถียร",
+      "content": "vmess://eyJhZGQiOiI0My4yMjkuMTUwLjE0MiIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjhjNDM2NDViLTk2MjUtNGE2NS1hNTUxLWMzZTU5NDQ1OTJmYiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwMDAiLCJwcyI6InRjcC10cnVlLWZiNiIsInNjeSI6ImF1dG8iLCJzbmkiOiJjb25uZWN0LmZhY2Vib29rLm5ldCIsInRscyI6InRscyIsInR5cGUiOiJodHRwIiwidiI6IjIifQ=="
+    }, {
+      "name": "TH-TRUE-โปรเฟสบุ๊คเกมส์มิ่ง-07",
+      "detail": "เน็ตเร็วแรงเสถียร",
+      "content": "vmess://eyJhZGQiOiI0My4yMjkuMTUwLjE0MyIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjY4OGY1ZjI2LTk2YzktNGZkNS05YzQyLTU4NGU0ZjkyNTJiMiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwMDAiLCJwcyI6InRydWUtZmI3LWlzIiwic2N5IjoiYXV0byIsInNuaSI6ImNvbm5lY3QuZmFjZWJvb2submV0IiwidGxzIjoidGxzIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9"
+    }, {
+      "name": "TH-TRUE-โปรเฟสบุ๊คเกมส์มิ่ง-08",
+      "detail": "เน็ตเร็วแรงเสถียร",
+      "content": "vmess://eyJhZGQiOiI0My4yMjkuMTUwLjE0NCIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImE5NmVmZDIzLTkxNGMtNGY2ZS05Mjk5LTY0NjI3MmViYjNmMyIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwMDAiLCJwcyI6InRydWUtZmI4LWlzIiwic2N5IjoiYXV0byIsInNuaSI6ImNvbm5lY3QuZmFjZWJvb2submV0IiwidGxzIjoidGxzIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9"
+    }, {
+      "name": "TH-TRUE-โปรเฟสบุ๊คเกมส์มิ่ง-09",
+      "detail": "เน็ตเร็วแรงเสถียร",
+      "content": "vmess://eyJhZGQiOiI0My4yMjkuMTUwLjE0OCIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjdlN2ZkNTQyLTM0ZDItNDQ2MC1hYzcyLWQ3NTA2NjQ3YTdjMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwMDAiLCJwcyI6InRydWUtZmI5LWlzIiwic2N5IjoiYXV0byIsInNuaSI6ImNvbm5lY3QuZmFjZWJvb2submV0IiwidGxzIjoidGxzIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9"
+    }, {
+      "name": "TH-TRUE-โปรเฟสบุ๊คเกมส์มิ่ง-10",
+      "detail": "เน็ตเร็วแรงเสถียร",
+      "content": "vmess://eyJhZGQiOiI0My4yMjkuMTUwLjE1MSIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImEwNzUxNjA2LWZlZjAtNGZhYy1iMDNkLTAxZWY0NjYzNTc5MiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwMDAiLCJwcyI6InRydWUtZmIxMC1pcyIsInNjeSI6ImF1dG8iLCJzbmkiOiJjb25uZWN0LmZhY2Vib29rLm5ldCIsInRscyI6InRscyIsInR5cGUiOiJodHRwIiwidiI6IjIifQ=="
     }
   ]
 }
