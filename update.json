@@ -1,6 +1,6 @@
 {
-  "version": 1.4,
-  "message": "อัปเดตไฟล์วันที่23/12/23",
+  "version": 1.5,
+  "message": "อัปเดตไฟล์วันที่26/12/23",
   "data": [
     {
       "name": "TH-CAT-AIS-PLAY-01",
@@ -79,6 +79,14 @@
       "detail": "สำหรับใช้งานทั่วไป",
       "content": "vmess://eyJhZGQiOiI0My4yMjkuMTUwLjIyOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6IjdmNDBiM2RjLTJjMjAtNDViMi1iODRiLWFkZTk0ZjhmMTVmNCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6ImlzMy1haXMtZ3FmNTZobHEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJodHRwIiwidiI6IjIifQ=="
     }, {
+      "name": "TH-IS-AIS-PLAY-04",
+      "detail": "สำหรับใช้งานทั่วไป",
+      "content": "vmess://eyJhZGQiOiI0My4yMjkuMTUwLjM2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiYTY1MmJhYTctNTEzZi00ZmY3LWJjMWQtNjZkMGM5ZDMyZDMzIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoiYWlzLXBsYXktNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0="
+    }, {
+      "name": "TH-IS-AIS-PLAY-05",
+      "detail": "สำหรับใช้งานทั่วไป",
+      "content": "vmess://eyJhZGQiOiI0My4yMjkuMTUwLjYzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiY2RkYzZhMmItNzE5Ni00ZjQwLWJhZjktZmE4YjEwZjc0MDVhIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoiYWlzLXBsYXktNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0="
+    }, {
       "name": "TH-IS-TRUE-NOPRO-01",
       "detail": "สำหรับใช้งานทั่วไป",
       "content": "vless://0039420a-003d-4652-98ba-4f0f8a3af4b2@truemoney.com:80?path=%2F&security=none&encryption=none&host=is1.namovpn.com&type=ws#is1-nopro-z2apqxf2"
@@ -91,6 +99,14 @@
       "detail": "สำหรับใช้งานทั่วไป",
       "content": "vless://7839093b-8db1-4d29-83be-354014581690@truemoney.com:80?path=%2F&security=none&encryption=none&host=is3.namovpn.com&type=ws#is3-nopro-cus3lgnc"
     }, {
+      "name": "TH-IS-TRUE-NOPRO-04",
+      "detail": "สำหรับใช้งานทั่วไป",
+      "content": "vless://5d502cb5-07e1-4c86-b9fc-e14266436590@truemoney.com:80?path=%2F&security=none&encryption=none&host=is4.namovpn.com&type=ws#true-nopro-4"
+    }, {
+      "name": "TH-IS-TRUE-NOPRO-05",
+      "detail": "สำหรับใช้งานทั่วไป",
+      "content": "vless://d16cde70-4ce9-4e34-92ce-f36adb3fffbc@truemoney.com:80?path=%2F&security=none&encryption=none&host=is5.namovpn.com&type=ws#true-nopro-5"
+    }, {
       "name": "TH-IS-TRUE-เฟสบุ๊คเกมส์มิ่ง-01",
       "detail": "สำหรับใช้งานทั่วไป",
       "content": "vmess://eyJhZGQiOiI0My4yMjkuMTUwLjIyNyIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjcwOWJkZWE2LTQ5NzEtNDBlMi05ZmIzLWQyMjkxNTQ2NWNiYiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwMDAiLCJwcyI6ImlzMS1mYi1ibjlqazBlaiIsInNjeSI6ImF1dG8iLCJzbmkiOiJjb25uZWN0LmZhY2Vib29rLm5ldCIsInRscyI6InRscyIsInR5cGUiOiJodHRwIiwidiI6IjIifQ=="
@@ -102,6 +118,14 @@
       "name": "TH-IS-TRUE-เฟสบุ๊คเกมส์มิ่ง-03",
       "detail": "สำหรับใช้งานทั่วไป",
       "content": "vmess://eyJhZGQiOiI0My4yMjkuMTUwLjIyOSIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjgwMmQ2NTkxLTBmZDAtNDMxOS1hNjBlLTVlZTE5YWI2NmFjNyIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwMDAiLCJwcyI6ImlzMy1mYi1rcWtlYm1iZCIsInNjeSI6ImF1dG8iLCJzbmkiOiJjb25uZWN0LmZhY2Vib29rLm5ldCIsInRscyI6InRscyIsInR5cGUiOiJodHRwIiwidiI6IjIifQ=="
+    }, {
+      "name": "TH-IS-TRUE-เฟสบุ๊คเกมส์มิ่ง-04",
+      "detail": "สำหรับใช้งานทั่วไป",
+      "content": "vmess://eyJhZGQiOiI0My4yMjkuMTUwLjM2IiwiYWlkIjoiMCIsImFscG4iOiJodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYzRjZjI1YjAtNTJjNC00ZmJjLWE2NmYtYzRjMjAyMjAzMDk1IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAwMCIsInBzIjoidHJ1ZS1mYi00Iiwic2N5IjoiYXV0byIsInNuaSI6ImNvbm5lY3QuZmFjZWJvb2submV0IiwidGxzIjoidGxzIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9"
+    }, {
+      "name": "TH-IS-TRUE-เฟสบุ๊คเกมส์มิ่ง-05",
+      "detail": "สำหรับใช้งานทั่วไป",
+      "content": "vmess://eyJhZGQiOiI0My4yMjkuMTUwLjYzIiwiYWlkIjoiMCIsImFscG4iOiJodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjFkMWRkNjYtOGY0Zi00MmQzLWJhOTEtYTlkMGMxODk4NjFkIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAwMCIsInBzIjoidHJ1ZS1mYi01Iiwic2N5IjoiYXV0byIsInNuaSI6ImNvbm5lY3QuZmFjZWJvb2submV0IiwidGxzIjoidGxzIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9"
     }, {
       "name": "TH-RD-AIS-PLAY-01",
       "detail": "สำหรับใช้งานทั่วไป",
