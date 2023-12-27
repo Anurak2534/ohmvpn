@@ -1,6 +1,6 @@
 {
-  "version": 1.5,
-  "message": "อัปเดตไฟล์วันที่26/12/23",
+  "version": 1.6,
+  "message": "อัปเดตไฟล์วันที่27/12/23",
   "data": [
     {
       "name": "TH-CAT-AIS-PLAY-01",
@@ -194,30 +194,6 @@
       "name": "TH-RD-TRUE-โปรเฟสบุ๊คเกมส์มิ่ง-06",
       "detail": "สำหรับใช้งานทั่วไป",
       "content": "vmess://eyJhZGQiOiI0NS4xNTAuMTMxLjIwMyIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjE1NzI3MDk3LTM4ZGEtNDAzNy1jMGMzLWY2OGUxZjU2ZTAxNSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwMDAiLCJwcyI6IkZCNiIsInNjeSI6ImF1dG8iLCJzbmkiOiJjb25uZWN0LmZhY2Vib29rLm5ldCIsInRscyI6InRscyIsInR5cGUiOiJodHRwIiwidiI6IjIifQ=="
-    }, {
-      "name": "TH-Z-TRUE-NOPRO-01",
-      "detail": "สำหรับใช้เล่นเกมส์",
-      "content": "vmess://eyJhZGQiOiIwOjA6MDowOjA6RkZGRjo2ODEyOkJBMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidjEubmFtb3Zwbi5jb20iLCJpZCI6IjMyNTM2OTcwLWNhMmYtNDVmYy1jNTM4LTMzZmQ5MmNmMGQ4ZSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IlJEMS1UUlVFLU5PUFJPIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
-    }, {
-      "name": "TH-Z-TRUE-NOPRO-02",
-      "detail": "สำหรับใช้เล่นเกมส์",
-      "content": "vmess://eyJhZGQiOiIwOjA6MDowOjA6RkZGRjo2ODEyOkJBMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidjIubmFtb3Zwbi5jb20iLCJpZCI6ImZmYjhhOWFiLTlmYjQtNGJhNy1mNTc4LTE1NDkzZDA1NTdlOCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IlJEMi1UUlVFLU5PUFJPIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
-    }, {
-      "name": "TH-Z-TRUE-NOPRO-03",
-      "detail": "สำหรับใช้เล่นเกมส์",
-      "content": "vmess://eyJhZGQiOiIwOjA6MDowOjA6RkZGRjo2ODEyOkJBMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidjMubmFtb3Zwbi5jb20iLCJpZCI6IjUyY2E2OGUxLWE2NGYtNDhhZC1kOTIzLWJiOGU5NWE1ZDY1ZSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IlJEMy1UUlVFLU5PUFJPIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
-    }, {
-      "name": "TH-Z-TRUE-NOPRO-04",
-      "detail": "สำหรับใช้เล่นเกมส์",
-      "content": "vmess://eyJhZGQiOiIwOjA6MDowOjA6RkZGRjo2ODEyOkJBMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidjQubmFtb3Zwbi5jb20iLCJpZCI6Ijk5ZTUxN2Y4LWZiY2YtNDU1OC1lODA4LTAyOTBkNGZlZWUxZSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IlJENC1UUlVFLU5PUFJPIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
-    }, {
-      "name": "TH-Z-TRUE-NOPRO-05",
-      "detail": "สำหรับใช้เล่นเกมส์",
-      "content": "vmess://eyJhZGQiOiIwOjA6MDowOjA6RkZGRjo2ODEyOkJBMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidjUubmFtb3Zwbi5jb20iLCJpZCI6IjQyYTI1MDVlLWY2OWUtNGJmNi1lNThhLWFhOTJkNzdhZWMxZiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IlJENS1UUlVFLU5PUFJPIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
-    }, {
-      "name": "TH-Z-TRUE-NOPRO-06",
-      "detail": "สำหรับใช้เล่นเกมส์",
-      "content": "vmess://eyJhZGQiOiIwOjA6MDowOjA6RkZGRjo2ODEyOkJBMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidjYubmFtb3Zwbi5jb20iLCJpZCI6IjkzNjc4OGRlLWU1OTUtNDQ0Ny1kOWE4LTgxZmVlNTZjYmNhZCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IlJENi1UUlVFLU5PUFJPIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
     }
   ]
 }
