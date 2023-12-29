@@ -1,71 +1,31 @@
 {
-  "version": 1.6,
-  "message": "อัปเดตไฟล์วันที่27/12/23",
+  "version": 1.7,
+  "message": "อัปเดตไฟล์วันที่30/12/23",
   "data": [
     {
       "name": "TH-CAT-AIS-PLAY-01",
       "detail": "สำหรับใช้งานทั่วไป",
-      "content": "vmess://eyJhZGQiOiIxMjIuMTU1LjE2Ni4xNDciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ind3dy5zcGVlZHRlc3QubmV0IiwiaWQiOiI3ZTFiOTZjNy1mODIzLTRlMGMtZDcyNi05OWUzNzJmZTk5ODMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJhaXMxLWNhdCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+      "content": "vless://cd5d398f-8326-41c6-9757-21ac55f21256@110.78.215.208:8080?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#ais-play-nt"
     }, {
+      "name": "TH-CAT-TRUE-NOPRO-01",
+      "detail": "สำหรับใช้งานทั่วไป",
+      "content": "vless://f9bc4c85-aa06-4049-96ea-dbbf3cc75d80@noprotrue.lingvpn.net:80?path=%2F&security=none&encryption=none&host=cat1.namo10.online&type=ws#true-nopro-nt"
+    },{
       "name": "TH-CAT-AIS-PLAY-02",
       "detail": "สำหรับใช้งานทั่วไป",
-      "content": "vmess://eyJhZGQiOiIxMjIuMTU1LjMuMTQxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiMmNlYTZhMTEtNjRkYS00Mzc3LWY5MDItMjA0NThlNzU1YmU4IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiYWlzMi1jYXQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+      "content": "vless://214d013e-75ae-4bbf-bcf1-bbb070f2ffbe@110.78.215.54:8080?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#ais-play2"
     }, {
-      "name": "TH-CAT-AIS-PLAY-03",
+      "name": "TH-CAT-TRUE-NOPRO-02",
       "detail": "สำหรับใช้งานทั่วไป",
-      "content": "vmess://eyJhZGQiOiI2MS4xOS4yNDguMjI0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiODBkNjgxOGEtOGM0MC00NThlLTg2ZWMtYzVjYjM0NDk0NGJlIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiYWlzMy1jYXQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+      "content": "vless://14db1d00-7faf-4fce-bda2-c2d8c40c5816@noprotrue.lingvpn.net:80?path=%2F&security=none&encryption=none&host=cat2.namo10.online&type=ws#true-nopro-2"
     }, {
-      "name": "TH-CAT-AIS-PLAY-04",
+      "name": "SG-AIS-PLAY-01",
       "detail": "สำหรับใช้งานทั่วไป",
-      "content": "vmess://eyJhZGQiOiIxMjIuMTU1LjMuNDAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ind3dy5zcGVlZHRlc3QubmV0IiwiaWQiOiI5MjRkMzZlMC0zNzY4LTQwMGEtZjQzNS01MzU4MmIxNGVhMjYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJhaXM0LWNhdCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+      "content": "vless://05e3a949-42a7-461c-a6b2-942143afdb0e@103.230.121.16:8080?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#ais-play-sg"
     }, {
-      "name": "TH-CAT-AIS-PLAY-05",
+      "name": "SG-TRUE-NOPRO-01",
       "detail": "สำหรับใช้งานทั่วไป",
-      "content": "vmess://eyJhZGQiOiIxMjIuMTU1LjkuMTEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiOWI0M2UzODItODY0NC00NzFlLWZlMGUtYzQwNmRjYmY1ZTRkIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiYWlzNS1jYXQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
-    }, {
-      "name": "TH-CAT-AIS-PLAY-06",
-      "detail": "สำหรับใช้งานทั่วไป",
-      "content": "vmess://eyJhZGQiOiI2MS4xOS4yNDguMTAwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiMDg3MGY1YzYtYWZlZi00ZmZmLWM2YjUtMWVlMjFiYTYwZThjIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiYWlzNi1jYXQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
-    }, {
-      "name": "TH-CAT-AIS-PLAY-07",
-      "detail": "สำหรับใช้งานทั่วไป",
-      "content": "vmess://eyJhZGQiOiIxMjIuMTU1LjkuMTY0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiMTY3ZDhlNTEtMTMyYS00ODM4LWJkZjktOTY5NDViZTZmMGEyIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiYWlzNy1jYXQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
-    }, {
-      "name": "TH-CAT-AIS-PLAY-08",
-      "detail": "สำหรับใช้งานทั่วไป",
-      "content": "vmess://eyJhZGQiOiIxMjIuMTU1LjkuMTU5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiY2FjODA5NjctMTExZi00YjYwLWZkNzQtZGVhZGZjZTBhOTdjIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiYWlzOC1jYXQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
-    },       {
-      "name": "TH-CAT-TRUE-โปรเฟสบุ๊คเกมส์มิ่ง-01",
-      "detail": "สำหรับใช้งานทั่วไป",
-      "content": "vmess://eyJhZGQiOiIxMjIuMTU1LjE2Ni4xNDciLCJhaWQiOiIwIiwiYWxwbiI6Imh0dHAvMS4xIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmYWYxMDU4OC04ZWRkLTRlNjQtYjc3OC05NWVmMGUyYTRlN2IiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDAwIiwicHMiOiJ0cnVlLUZCMS1jYXQiLCJzY3kiOiJhdXRvIiwic25pIjoiY29ubmVjdC5mYWNlYm9vay5uZXQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0="
-    }, {
-      "name": "TH-CAT-TRUE-โปรเฟสบุ๊คเกมส์มิ่ง-02",
-      "detail": "สำหรับใช้งานทั่วไป",
-      "content": "vmess://eyJhZGQiOiIxMjIuMTU1LjMuMTQxIiwiYWlkIjoiMCIsImFscG4iOiJodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZDlkNzc5NzQtZWQxMy00NDc4LWEzYzktYzVhNDVkYzM1ZDU4IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAwMCIsInBzIjoidHJ1ZS1mYjItY2F0Iiwic2N5IjoiYXV0byIsInNuaSI6ImNvbm5lY3QuZmFjZWJvb2submV0IiwidGxzIjoidGxzIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9"
-    }, {
-      "name": "TH-CAT-TRUE-โปรเฟสบุ๊คเกมส์มิ่ง-03",
-      "detail": "สำหรับใช้งานทั่วไป",
-      "content": "vmess://eyJhZGQiOiI2MS4xOS4yNDguMjI0IiwiYWlkIjoiMCIsImFscG4iOiJodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmVlMDEzNmEtMzRhNy00ZGE2LWI1NzUtYzkwNDdiYWRmNDAyIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAwMCIsInBzIjoidHJ1ZS1mYjMtY2F0Iiwic2N5IjoiYXV0byIsInNuaSI6ImNvbm5lY3QuZmFjZWJvb2submV0IiwidGxzIjoidGxzIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9"
-    }, {
-      "name": "TH-CAT-TRUE-โปรเฟสบุ๊คเกมส์มิ่ง-04",
-      "detail": "สำหรับใช้งานทั่วไป",
-      "content": "vmess://eyJhZGQiOiIxMjIuMTU1LjMuNDAiLCJhaWQiOiIwIiwiYWxwbiI6Imh0dHAvMS4xIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI2MDMzYzA0Yi1jZWRhLTQ0NTgtZmI1Zi0yMTQ0NDk0ZWVhNDQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDAwIiwicHMiOiJ0cnVlLWZiNC1jYXQiLCJzY3kiOiJhdXRvIiwic25pIjoiY29ubmVjdC5mYWNlYm9vay5uZXQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0="
-    }, {
-      "name": "TH-CAT-TRUE-โปรเฟสบุ๊คเกมส์มิ่ง-05",
-      "detail": "สำหรับใช้งานทั่วไป",
-      "content": "vmess://eyJhZGQiOiIxMjIuMTU1LjkuMTEwIiwiYWlkIjoiMCIsImFscG4iOiJodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNTEzMTZmYTEtYWU0NC00YjY3LTgxZGQtYjM4MDE3OWExNmIyIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAwMCIsInBzIjoidHJ1ZS1mYjUtY2F0Iiwic2N5IjoiYXV0byIsInNuaSI6ImNvbm5lY3QuZmFjZWJvb2submV0IiwidGxzIjoidGxzIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9"
-    }, {
-      "name": "TH-CAT-TRUE-โปรเฟสบุ๊คเกมส์มิ่ง-06",
-      "detail": "สำหรับใช้งานทั่วไป",
-      "content": "vmess://eyJhZGQiOiI2MS4xOS4yNDguMTAwIiwiYWlkIjoiMCIsImFscG4iOiJodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZWZlOGExYTItYmIwMy00MTc4LTk4MTgtZGU4YWMwZjlmYTBiIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAwMCIsInBzIjoidHJ1ZS1mYjYtY2F0Iiwic2N5IjoiYXV0byIsInNuaSI6ImNvbm5lY3QuZmFjZWJvb2submV0IiwidGxzIjoidGxzIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9"
-    }, {
-      "name": "TH-CAT-TRUE-โปรเฟสบุ๊คเกมส์มิ่ง-07",
-      "detail": "สำหรับใช้งานทั่วไป",
-      "content": "vmess://eyJhZGQiOiIxMjIuMTU1LjkuMTY0IiwiYWlkIjoiMCIsImFscG4iOiJodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNzFiMzEwZWUtYzQwNS00MjVjLTg0MTUtNTcwMDM2NTZmMDQ1IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAwMCIsInBzIjoidHJ1ZS1mYjctY2F0Iiwic2N5IjoiYXV0byIsInNuaSI6ImNvbm5lY3QuZmFjZWJvb2submV0IiwidGxzIjoidGxzIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9"
-    }, {
-      "name": "TH-CAT-TRUE-โปรเฟสบุ๊คเกมส์มิ่ง-08",
-      "detail": "สำหรับใช้งานทั่วไป",
-      "content": "vmess://eyJhZGQiOiIxMjIuMTU1LjkuMTU5IiwiYWlkIjoiMCIsImFscG4iOiJodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiN2ViNmYzODQtZTE5NS00NTY4LTgwYTYtMGQ0NGJhM2JlNGUxIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAwMCIsInBzIjoidHJ1ZS1mYjgtY2F0Iiwic2N5IjoiYXV0byIsInNuaSI6ImNvbm5lY3QuZmFjZWJvb2submV0IiwidGxzIjoidGxzIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9"
+      "content": "vless://35985741-dff0-4189-a5c4-cdf27ad2539d@noprotrue.lingvpn.net:80?path=%2F&security=none&encryption=none&host=sg1.namo10.online&type=ws#true-nopro-SG"
     }, {
       "name": "TH-IS-AIS-PLAY-01",
       "detail": "สำหรับใช้งานทั่วไป",
