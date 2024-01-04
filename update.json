@@ -1,6 +1,6 @@
 {
-  "version": 1.7,
-  "message": "อัปเดตไฟล์วันที่30/12/23",
+  "version": 1.8,
+  "message": "อัปเดตไฟล์วันที่04/01/24",
   "data": [
     {
       "name": "TH-CAT-AIS-PLAY-01",
@@ -67,25 +67,57 @@
       "detail": "สำหรับใช้งานทั่วไป",
       "content": "vless://d16cde70-4ce9-4e34-92ce-f36adb3fffbc@truemoney.com:80?path=%2F&security=none&encryption=none&host=is5.namovpn.com&type=ws#true-nopro-5"
     }, {
+      "name": "SG-DTAC-NOPRO-01",
+      "detail": "สำหรับใช้งานทั่วไป",
+      "content": "vless://35985741-dff0-4189-a5c4-cdf27ad2539d@dtacitim.ddnsfree.com:80?path=%2F&security=none&encryption=none&host=sg1.namo10.online&type=ws#SG-dtac-nopro"
+    }, {
+      "name": "TH-CAT-DTAC-NOPRO-01",
+      "detail": "สำหรับใช้งานทั่วไป",
+      "content": "vless://f9bc4c85-aa06-4049-96ea-dbbf3cc75d80@dtacitim.ddnsfree.com:80?path=%2F&security=none&encryption=none&host=cat1.namo10.online&type=ws#CAT1-dtac-nopro"
+    }, {
+      "name": "TH-CAT-DTAC-NOPRO-02",
+      "detail": "สำหรับใช้งานทั่วไป",
+      "content": "vless://14db1d00-7faf-4fce-bda2-c2d8c40c5816@dtacitim.ddnsfree.com:80?path=%2F&security=none&encryption=none&host=cat2.namo10.online&type=ws#CAT2-dtac-nopro"
+    }, {
+      "name": "TH-IS-DTAC-NOPRO-01",
+      "detail": "สำหรับใช้งานทั่วไป",
+      "content": "vless://0039420a-003d-4652-98ba-4f0f8a3af4b2@dtacitim.ddnsfree.com:80?path=%2F&security=none&encryption=none&host=is1.namovpn.com&type=ws#is1-dtac-nopro"
+    }, {
+      "name": "TH-IS-DTAC-NOPRO-02",
+      "detail": "สำหรับใช้งานทั่วไป",
+      "content": "vless://f37e685c-a791-436f-9a09-c36b6d7e17a0@dtacitim.ddnsfree.com:80?path=%2F&security=none&encryption=none&host=is2.namovpn.com&type=ws#is2-dtac-nopro"
+    }, {
+      "name": "TH-IS-DTAC-NOPRO-03",
+      "detail": "สำหรับใช้งานทั่วไป",
+      "content": "vless://7839093b-8db1-4d29-83be-354014581690@dtacitim.ddnsfree.com:80?path=%2F&security=none&encryption=none&host=is3.namovpn.com&type=ws#is3-dtac-nopro"
+    }, {
+      "name": "TH-IS-DTAC-NOPRO-04",
+      "detail": "สำหรับใช้งานทั่วไป",
+      "content": "vless://5d502cb5-07e1-4c86-b9fc-e14266436590@dtacitim.ddnsfree.com:80?path=%2F&security=none&encryption=none&host=is4.namovpn.com&type=ws#is4-dtac-nopro"
+    }, {
+      "name": "TH-IS-DTAC-NOPRO-05",
+      "detail": "สำหรับใช้งานทั่วไป",
+      "content": "vless://d16cde70-4ce9-4e34-92ce-f36adb3fffbc@dtacitim.ddnsfree.com:80?path=%2F&security=none&encryption=none&host=is5.namovpn.com&type=ws#is5-dtac-nopro"
+    }, {
       "name": "TH-IS-TRUE-เฟสบุ๊คเกมส์มิ่ง-01",
       "detail": "สำหรับใช้งานทั่วไป",
-      "content": "vmess://eyJhZGQiOiI0My4yMjkuMTUwLjIyNyIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjcwOWJkZWE2LTQ5NzEtNDBlMi05ZmIzLWQyMjkxNTQ2NWNiYiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwMDAiLCJwcyI6ImlzMS1mYi1ibjlqazBlaiIsInNjeSI6ImF1dG8iLCJzbmkiOiJjb25uZWN0LmZhY2Vib29rLm5ldCIsInRscyI6InRscyIsInR5cGUiOiJodHRwIiwidiI6IjIifQ=="
+      "content": "vless://3ebd065f-9996-454a-be9c-b65ee0662267@43.229.150.227:8000?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=is1.namovpn.com&sni=connect.facebook.net#is1-fb-true"
     }, {
       "name": "TH-IS-TRUE-เฟสบุ๊คเกมส์มิ่ง-02",
       "detail": "สำหรับใช้งานทั่วไป",
-      "content": "vmess://eyJhZGQiOiI0My4yMjkuMTUwLjIyOCIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjhjNjQxZjA4LTE5MjAtNDgwMS04NzcxLTEyMmYwMGUyOTkyNSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwMDAiLCJwcyI6ImlzMi1mYi1uNDBhNzl0dyIsInNjeSI6ImF1dG8iLCJzbmkiOiJjb25uZWN0LmZhY2Vib29rLm5ldCIsInRscyI6InRscyIsInR5cGUiOiJodHRwIiwidiI6IjIifQ=="
+      "content": "vless://5070826b-a574-4610-b1c2-169e4d9a78f7@43.229.150.228:8000?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=is2.namovpn.com&sni=connect.facebook.net#is2-fb-true"
     }, {
       "name": "TH-IS-TRUE-เฟสบุ๊คเกมส์มิ่ง-03",
       "detail": "สำหรับใช้งานทั่วไป",
-      "content": "vmess://eyJhZGQiOiI0My4yMjkuMTUwLjIyOSIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjgwMmQ2NTkxLTBmZDAtNDMxOS1hNjBlLTVlZTE5YWI2NmFjNyIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwMDAiLCJwcyI6ImlzMy1mYi1rcWtlYm1iZCIsInNjeSI6ImF1dG8iLCJzbmkiOiJjb25uZWN0LmZhY2Vib29rLm5ldCIsInRscyI6InRscyIsInR5cGUiOiJodHRwIiwidiI6IjIifQ=="
+      "content": "vless://a89e2ffc-79ba-41dc-9f50-ecdae48fd956@43.229.150.229:8000?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=is3.namovpn.com&sni=connect.facebook.net#is3-fb-true"
     }, {
       "name": "TH-IS-TRUE-เฟสบุ๊คเกมส์มิ่ง-04",
       "detail": "สำหรับใช้งานทั่วไป",
-      "content": "vmess://eyJhZGQiOiI0My4yMjkuMTUwLjM2IiwiYWlkIjoiMCIsImFscG4iOiJodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYzRjZjI1YjAtNTJjNC00ZmJjLWE2NmYtYzRjMjAyMjAzMDk1IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAwMCIsInBzIjoidHJ1ZS1mYi00Iiwic2N5IjoiYXV0byIsInNuaSI6ImNvbm5lY3QuZmFjZWJvb2submV0IiwidGxzIjoidGxzIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9"
+      "content": "vless://5b30a5cc-2657-479a-a3d7-353db8a5e6b6@43.229.150.36:8000?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=is4.namovpn.com&sni=connect.facebook.net#is4-fb-true"
     }, {
       "name": "TH-IS-TRUE-เฟสบุ๊คเกมส์มิ่ง-05",
       "detail": "สำหรับใช้งานทั่วไป",
-      "content": "vmess://eyJhZGQiOiI0My4yMjkuMTUwLjYzIiwiYWlkIjoiMCIsImFscG4iOiJodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjFkMWRkNjYtOGY0Zi00MmQzLWJhOTEtYTlkMGMxODk4NjFkIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAwMCIsInBzIjoidHJ1ZS1mYi01Iiwic2N5IjoiYXV0byIsInNuaSI6ImNvbm5lY3QuZmFjZWJvb2submV0IiwidGxzIjoidGxzIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9"
+      "content": "vless://cc0bf62e-b069-4aa8-aede-6dccdaacd82a@43.229.150.63:8000?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=is5.namovpn.com&sni=connect.facebook.net#is5-fb-true"
     }, {
       "name": "TH-RD-AIS-PLAY-01",
       "detail": "สำหรับใช้งานทั่วไป",
@@ -135,25 +167,29 @@
       "detail": "สำหรับใช้งานทั่วไป",
       "content": "vmess://eyJhZGQiOiIwOjA6MDowOjA6RkZGRjo2ODEyOkJBMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidjYubmFtb3Zwbi5jb20iLCJpZCI6IjkzNjc4OGRlLWU1OTUtNDQ0Ny1kOWE4LTgxZmVlNTZjYmNhZCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IlJENi1UUlVFLU5PUFJPIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
     }, {
-      "name": "TH-RD-TRUE-โปรเฟสบุ๊คเกมส์มิ่ง-02",
+      "name": "TH-RD-DTAC-NOPRO-01",
       "detail": "สำหรับใช้งานทั่วไป",
-      "content": "vmess://eyJhZGQiOiIyMTIuODAuMjEyLjI0NCIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjY1NjAyODhhLTg3YmEtNDg1YS1jOTQ0LTk4NjgxY2ZiMjU1NiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwMDAiLCJwcyI6InJkMi1mYiIsInNjeSI6ImF1dG8iLCJzbmkiOiJjb25uZWN0LmZhY2Vib29rLm5ldCIsInRscyI6InRscyIsInR5cGUiOiJodHRwIiwidiI6IjIifQ=="
+      "content": "vmess://eyJhZGQiOiJkdGFjaXRpbS5kZG5zZnJlZS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InYxLm5hbW92cG4uY29tIiwiaWQiOiIzMjUzNjk3MC1jYTJmLTQ1ZmMtYzUzOC0zM2ZkOTJjZjBkOGUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJSRDEtZGF0Yy1OT1BSTyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     }, {
-      "name": "TH-RD-TRUE-โปรเฟสบุ๊คเกมส์มิ่ง-03",
+      "name": "TH-RD-DTAC-NOPRO-02",
       "detail": "สำหรับใช้งานทั่วไป",
-      "content": "vmess://eyJhZGQiOiI0NS4xMzYuMjM5LjM4IiwiYWlkIjoiMCIsImFscG4iOiJodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiODdhZTE5MmUtYjRkOC00NGFlLWUxM2ItZDgwNDk4MzhmMmViIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAwMCIsInBzIjoicmQzLWZiIiwic2N5IjoiYXV0byIsInNuaSI6ImNvbm5lY3QuZmFjZWJvb2submV0IiwidGxzIjoidGxzIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9"
+      "content": "vmess://eyJhZGQiOiJkdGFjaXRpbS5kZG5zZnJlZS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InYyLm5hbW92cG4uY29tIiwiaWQiOiJmZmI4YTlhYi05ZmI0LTRiYTctZjU3OC0xNTQ5M2QwNTU3ZTgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJSRDItZHRhYy1ub3BybyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     }, {
-      "name": "TH-RD-TRUE-โปรเฟสบุ๊คเกมส์มิ่ง-04",
+      "name": "TH-RD-DTAC-NOPRO-03",
       "detail": "สำหรับใช้งานทั่วไป",
-      "content": "vmess://eyJhZGQiOiI0NS4xMzYuMjM4LjgzIiwiYWlkIjoiMCIsImFscG4iOiJodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYzQ4NjA2MTgtZmM2Zi00ZjM5LWZhZDctMjU5NzYwYzc5ZDA1IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAwMCIsInBzIjoidHJ1ZS1mYjQiLCJzY3kiOiJhdXRvIiwic25pIjoiY29ubmVjdC5mYWNlYm9vay5uZXQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0="
+      "content": "vmess://eyJhZGQiOiJkdGFjaXRpbS5kZG5zZnJlZS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InYzLm5hbW92cG4uY29tIiwiaWQiOiI1MmNhNjhlMS1hNjRmLTQ4YWQtZDkyMy1iYjhlOTVhNWQ2NWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJSRDMtZHRhYy1ub3BybyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     }, {
-      "name": "TH-RD-TRUE-โปรเฟสบุ๊คเกมส์มิ่ง-05",
+      "name": "TH-RD-DTAC-NOPRO-04",
       "detail": "สำหรับใช้งานทั่วไป",
-      "content": "vmess://eyJhZGQiOiI0NS4xNTAuMTI5LjEzNCIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImFkNWU4MzAyLTQ3MmMtNDI2ZS1mNTUzLTBiZjBkYzIwMzE5NCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwMDAiLCJwcyI6IlJENS1mYiIsInNjeSI6ImF1dG8iLCJzbmkiOiJjb25uZWN0LmZhY2Vib29rLm5ldCIsInRscyI6InRscyIsInR5cGUiOiJodHRwIiwidiI6IjIifQ=="
+      "content": "vmess://eyJhZGQiOiJkdGFjaXRpbS5kZG5zZnJlZS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InY0Lm5hbW92cG4uY29tIiwiaWQiOiI5OWU1MTdmOC1mYmNmLTQ1NTgtZTgwOC0wMjkwZDRmZWVlMWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJSRDQtZHRhYy1ub3BybyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     }, {
-      "name": "TH-RD-TRUE-โปรเฟสบุ๊คเกมส์มิ่ง-06",
+      "name": "TH-RD-DTAC-NOPRO-05",
       "detail": "สำหรับใช้งานทั่วไป",
-      "content": "vmess://eyJhZGQiOiI0NS4xNTAuMTMxLjIwMyIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjE1NzI3MDk3LTM4ZGEtNDAzNy1jMGMzLWY2OGUxZjU2ZTAxNSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwMDAiLCJwcyI6IkZCNiIsInNjeSI6ImF1dG8iLCJzbmkiOiJjb25uZWN0LmZhY2Vib29rLm5ldCIsInRscyI6InRscyIsInR5cGUiOiJodHRwIiwidiI6IjIifQ=="
+      "content": "vmess://eyJhZGQiOiJkdGFjaXRpbS5kZG5zZnJlZS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InY1Lm5hbW92cG4uY29tIiwiaWQiOiI0MmEyNTA1ZS1mNjllLTRiZjYtZTU4YS1hYTkyZDc3YWVjMWYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJSRDUtZHRhYy1ub3BybyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    }, {
+      "name": "TH-RD-DTAC-NOPRO-06",
+      "detail": "สำหรับใช้งานทั่วไป",
+      "content": "vmess://eyJhZGQiOiJkdGFjaXRpbS5kZG5zZnJlZS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InY2Lm5hbW92cG4uY29tIiwiaWQiOiI5MzY3ODhkZS1lNTk1LTQ0NDctZDlhOC04MWZlZTU2Y2JjYWQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJSRDYtZHRhYy1ub3BybyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     }
   ]
 }
